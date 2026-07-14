@@ -1,6 +1,6 @@
 # 1. Define your Group IDs
-$SourceUserGroupId  = "a821f09b-b353-4244-8750-8d2de46d7460"
-$TargetDeviceGroupId = "4b7970b1-aa9d-4857-a07a-920f3671c895"
+$SourceUserGroupId  = "Source User Group ID Here"  # Replace with your source user group ID
+$TargetDeviceGroupId = "Target Device Group ID Here"  # Replace with your target device group ID
 
 # 2. Connect to Graph (Stripped down to only required scopes)
 $Scopes = @(
