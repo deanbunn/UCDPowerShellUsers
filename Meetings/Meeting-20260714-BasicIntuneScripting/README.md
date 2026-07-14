@@ -1,0 +1,1 @@
+## Basic Intune Scripting

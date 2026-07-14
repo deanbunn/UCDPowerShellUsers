@@ -2,6 +2,7 @@
 
 ### Meetings
 
+- [2026-07-14 Basic Intune Scripting](Meetings/Meeting-20260714-BasicIntuneScripting)
 - [2026-06-09 Box Admin Mass Actions](https://github.com/ucdavis/UCD-Box-Admin-Mass-Actions)
 - [2026-04-13 Advanced Intune Part 1](Meetings/Meeting-20260413-AdvancedIntunePart1)
 - [2026-02-10 Microsoft Graph Directory Management](Meetings/Meeting-20260210-MicrosoftGraphDirectoryManagement)
